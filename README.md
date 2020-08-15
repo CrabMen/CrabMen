@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-Hi, I'm CrabMan, a iOS developer from China.
+Hi, I'm CrabMan, an iOS developer from China.
 
 
 - 🔭 I’m currently working in a company of **996**
