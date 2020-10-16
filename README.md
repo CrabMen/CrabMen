@@ -9,7 +9,7 @@ Hi, I'm CrabMan, an iOS developer from China.
 -->
 
 - 🔭 I’m currently working in a company of **996**
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter and React
 - 📫 How to reach me: tobecrabman@163.com
 - ⚡ Fun fact: ...
 
