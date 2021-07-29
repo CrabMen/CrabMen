@@ -8,9 +8,10 @@ Here are some ideas to get you started:
 Hi, I'm CrabMan, an iOS developer from China.
 -->
 
-- 🔭 I’m currently working in a company of **996**
-- 🌱 I’m currently learning Flutter and React
-- 📫 How to reach me: tobecrabman@163.com
+- 🌱 15年工作至今，有独立开发以及团队开发与管理经验，目前就职于一家区块链行业公司，负责iOS端App的开发工作。
+- 🔭 技术栈：OC，Swift，React-Native，Flutter
+- 📫 邮箱: tobecrabman@163.com ，dart.flutter.1024@gmail.com
+-
 - ⚡ Fun fact: ...
 
 **Languages and Tools**  
