@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 Hi, I'm CrabMan, an iOS developer from China.
 -->
 
-- 🌱 15年工作至今，有独立开发以及团队开发经验有2-8人的移动端团队管理经验，目前从事于区块链行业，负责iOS端App的开发工作。
+- 🌱 15年工作至今，有独立开发以及团队开发经验以及2-8人的移动端团队管理经验，目前从事于区块链行业，负责iOS端App的开发工作。
 - 🔭 技术栈：OC，Swift，React-Native，Flutter ...
 - 📫 邮箱: tobecrabman@163.com / dart.flutter.1024@gmail.com
 <!--
