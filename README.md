@@ -1,21 +1,15 @@
 ### Hi there, I'm CrabMan! 👋
 
-<!--
-**CrabMen/CrabMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-<!--
-Hi, I'm CrabMan, an iOS developer from China.
--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crabmen&label=Views&color=blue&style=plastic"  /> </p>
 
-
 - 🌱 15年工作至今，有独立开发以及团队开发经验以及2-8人的移动端团队管理经验，目前从事于区块链行业，负责iOS端App的开发工作。
-- 🔭 技术栈：OC，Swift，React-Native，Flutter ...
+- 🔭 技术栈：OC，Swift，React-Native，WXJS，Flutter ...
 <!--
 - ⚡ Fun fact: ...
 -->
+
 **Languages and Tools**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
