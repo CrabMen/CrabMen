@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crabmen&label=Views&color=blue&style=plastic"  /> </p>
 
-- 🌱 15年工作至今，有独立开发以及团队开发经验以及2-8人的移动端团队管理经验，目前在一家区块链交易所公司任职，负责iOS端App的开发工作（任职公司项目技术栈：OC,Flutter,RN）。
+- 🌱 15年工作至今，有独立开发以及团队开发经验以及2-8人的移动端团队管理经验，目前在一家区块链交易所公司任职，负责iOS端App的开发工作（目前任职公司项目技术栈：OC,Flutter,RN）。
 - 🔭 技术栈：OC，Swift，React-Native，WXJS，Flutter ...
 <!--
 - ⚡ Fun fact: ...
