@@ -2,20 +2,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crabmen&label=Views&color=blue&style=plastic"  /> </p>
 
-- 🌱 15年工作至今，有独立开发以及团队开发经验以及2-8人的移动端团队管理经验，目前在一家区块链交易所公司任职，负责iOS端App的开发工作（目前任职公司项目技术栈：OC,Flutter,RN）。
-- 🔭 技术栈：OC，Swift，React-Native，WXJS，Flutter ...
+- 🌱 本人15年从事移动端开发至今，行业涉及区块链交易所、互联网金融、商业地产等，拥有丰富的独立开发与团队开发经验，有2-8人团队管理经验以及两年的远程办公经验。目前在国内一家AI公司任职Flutter开发，
+- 💻 主要技术栈：OC，Swift，React-Native，WXJS，Flutter ...
+- 🔭 研究方向：Flutter、AI大模型...
 <!--
 - ⚡ Fun fact: ...
 -->
 
 **Languages and Tools**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 
 ![snake graph](https://github.com/CrabMen/CrabMen/blob/output/github-contribution-grid-snake-dark.svg)
